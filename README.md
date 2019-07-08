@@ -1,8 +1,16 @@
 # BitWallet
 
+
+### Installing
+
+```
 cd www
 npm install
+```
 
+Modules
+
+```
 npm install node-binance-api
 npm install socket.io
 npm install socket.io-client
@@ -13,6 +21,11 @@ npm install poloniex-api-node
 npm install poloniex-api-node
 npm install poloniex-api-node
 npm install poloniex-api-node
+```
 
+### Serving
+
+```
 cd www
 npm run serve
+```
