@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+*node_modules
+*/node_modules/
+www/node_modules/
+.idea/
+=======
+./server/node_modules
+./.idea
+=======
+
+.idea
+
+# --------- poloniex
+poloniex/node_modules
+
+# --------- root_server
+root_server/node_modules
+>>>>>>> 2dae0716a81adbdff6c4348e92eae2849b17c2e0
+
+# --------- WWW
+www/.DS_Store
+www/node_modules
+www/dist
+
+# local env files
+www/.env.local
+www/.env.*.local
+
+# Log files
+www/npm-debug.log*
+www/yarn-debug.log*
+www/yarn-error.log*
+
+# Editor directories and files
+<<<<<<< HEAD
+./www/.idea
+./www/./www/.vscode
+./www/*.suo
+./www/*.ntvs*
+./www/*.njsproj
+./www/*.sln
+./www/*.sw?
+>>>>>>> 5ded9d29d0e65e7fd20b2dba2fb5a5903ac87cf3
+=======
+www/.idea
+www/./www/.vscode
+www/*.suo
+www/*.ntvs*
+www/*.njsproj
+www/*.sln
+www/*.sw?
+>>>>>>> 2dae0716a81adbdff6c4348e92eae2849b17c2e0

@@ -1,0 +1,10 @@
+from node:latest
+copy . /src
+
+workdir /src
+
+RUN npm install --production
+
+EXPOSE 8080
+
+CMD npm start
