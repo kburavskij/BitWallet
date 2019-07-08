@@ -1,6 +1,5 @@
 # BitWallet
-/n
-\n
+
 cd www
 npm install
 
