@@ -8,7 +8,7 @@ cd www
 npm install
 ```
 
-Modules
+##Then proceed to install modules
 
 ```
 npm install node-binance-api
